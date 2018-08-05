@@ -1,0 +1,26 @@
+{
+  "name": "testepaulo01",
+  "version": "0.0.1",
+  "description": "Primeiro teste do Paulo",
+  "engines": {
+    "node": "6.5.0"
+  },
+  "main": "helloworld.js",
+  "scripts": {
+    "start": "node helloworld.js"
+  },
+  "dependencies": {
+    "express": "4.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/testepaulo02.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express",
+    "hello"
+  ],
+  "license": "Licença Paulo"
+}

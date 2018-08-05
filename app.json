@@ -1,0 +1,8 @@
+{
+  "name": "Hello World do Paulo 01",
+  "description": "Este é meu primeiro teste usando o Heroku com Nodejs",
+  "repository": "https://git.heroku.com/testepaulo02.git",
+  "logo": "URL ainda não definida",
+  "keywords": ["node", "express", "hello"],
+  "image": "heroku/nodejs"
+}

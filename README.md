@@ -1,2 +1,2 @@
-# openshift-teste-paulo-nodejs-01
-Primeiro Teste de NodeJs do Paulo usando o Openshift
+# node-js-getting-started
+Este é meu primeiro teste de nodejs com Heroku.
